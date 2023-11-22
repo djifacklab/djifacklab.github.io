@@ -1,10 +1,11 @@
 ---
 title: Econométrie des séries temporelles univariées
+subtitle : Théorie et application sous Python
 ---
 
 <div>
 <div class="column-left">
-<p><img src="couverture_v2.jpg" height="650" width="430" alt="Couverture" /></p>
+<p><img src="series_temps_univaries.jpg" height="650" width="430" alt="Couverture" /></p>
 </div>
 
 
