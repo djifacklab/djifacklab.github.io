@@ -1,5 +1,5 @@
 ---
-title: Régression avec R
+title: Econométrie des séries temporelles univariées
 ---
 
 <div>
