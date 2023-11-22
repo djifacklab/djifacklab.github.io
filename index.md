@@ -13,19 +13,18 @@ subtitle : Théorie et application sous Python
 
 <h2 id="descriptif">Descriptif</h2>
 <ul>
-<li><a href="quatrieme.pdf">4e de couverture</a></li>
-<li><a href="avantpropos.pdf">Avant-propos</a></li>
-<li><a href="tdm.pdf">Sommaire détaillé</a></li>
+<li><a href="4e_couverture_series_temps_univaries.pdf">4e de couverture</a></li>
+<li><a href="univariate_times_series_sommaire.pdf">Sommaire détaillé</a></li>
 </ul>
 
 
 <h2 id="auteurs">Auteur</h2>
-<a href="https://perso.univ-rennes2.fr/pierre-andre.cornillon">Duvérier DJIFACK ZEBAZE</a>
+<a href="https://github.com/enfantbenidedieu">Duvérier DJIFACK ZEBAZE</a>
 
 
 <h2 id="boutique">Lien de téléchargement</h2>
 
-[<a href="https://laboutique.edpsciences.fr/produit/1087/9782759821839/Regression%20avec%20R%20-%202e%20edition">Par ici!</a>]
+[<a href="https://github.com/enfantbenidedieu/univariate-times-series">Par ici!</a>]
 
 <h2 id="matériel-disponible">Matériel disponible</h2>
 
