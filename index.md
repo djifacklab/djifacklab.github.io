@@ -18,14 +18,11 @@ title: Econométrie des séries temporelles univariées
 </ul>
 
 
-<h2 id="auteurs">Les auteurs</h2>
-<a href="https://perso.univ-rennes2.fr/pierre-andre.cornillon">Pierre-André Cornillon</a>, 
-Nicolas Hengartner,
-<a href="https://www.researchgate.net/profile/E_Matzner-Lober">Eric Matzner-Løber</a>, 
-<a href="https://perso.univ-rennes2.fr/laurent.rouviere">Laurent Rouvière</a>
+<h2 id="auteurs">Auteur</h2>
+<a href="https://perso.univ-rennes2.fr/pierre-andre.cornillon">Duvérier DJIFACK ZEBAZE</a>
 
 
-<h2 id="boutique">Boutique en ligne</h2>
+<h2 id="boutique">Lien de téléchargement</h2>
 
 [<a href="https://laboutique.edpsciences.fr/produit/1087/9782759821839/Regression%20avec%20R%20-%202e%20edition">Par ici!</a>]
 
